@@ -1,3 +1,11 @@
 venv/
 __pycache__/
 
+*.smi
+*_docked.pdbqt
+test.pdbqt
+vina
+*.pdbqt
+!receptor.pdbqt
+!ligand.pdbqt
+!redocked_erlotinib.pdbqt
